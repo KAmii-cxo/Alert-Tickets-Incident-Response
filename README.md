@@ -1,4 +1,5 @@
-##Overview
+# Alert Tickets Incident Response
+## Overview
 
 An **alert ticket** is a record used by cybersecurity teams, especially in Security Operations Centers (SOC), to track, investigate, and respond to potential security incidents or threats detected by monitoring systems. It acts as a formal way to document and manage alerts, ensuring that the team addresses potential issues in an organized manner.
 
